@@ -17,7 +17,7 @@ A simple Note-taking application built using Android Jetpack Compose and Room Da
 
 ## 🚀 How to Run
 1. Clone this repository:
-git clone https://github.com/your-username/NoteAppWithRoom.git
+git clone https://github.com/Moin333/NoteAppWithRoom.git
 cd NoteAppWithRoom
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
